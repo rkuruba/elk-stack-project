@@ -49,7 +49,7 @@ The configuration details of each machine may be found below.
 | Web-2    | Webserver (DVWA) | 10.0.0.6  | Linux            |          |
 | ELK-VM   | Elastic Server   | 10.1.0.4   | Linux            |
 
- - ![Network Diagram](Diagram/NetworkDiagram.PNG)
+ - ![Network Diagram](Diagram/NetworkDiagram.png)
 
 ### Access Policies
 
